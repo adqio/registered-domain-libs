@@ -33,6 +33,7 @@ you can use the script generateEffectiveTLDs.php with the following parameters:
 php generateEffectiveTLDs.php php  > PHP/effectiveTLDs.inc.php
 php generateEffectiveTLDs.php perl > Perl/effectiveTLDs.pm
 php generateEffectiveTLDs.php c    > C/tld-canon.h
+php generateEffectiveTLDs.php lua  > Lua/effectiveTLDs.lua
 
 
    
